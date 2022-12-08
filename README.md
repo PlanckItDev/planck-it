@@ -1,10 +1,10 @@
 # planck-it
 Full Application Life Cycle
 
-Planck-It aims to increase performance for Application Development
+## Mantras
 
-- Less manual actions
-- Less required Ressources
+- Every Action will cause the most likeliest Reaction! (less manual actions)
+- Every Reaction will be caused as fast as possible! (less required Ressources)
 
 ## How ?
 
@@ -35,11 +35,7 @@ Some simple steps:
 
 This will be always needs to be constructed!
 
-## Principles
 
-Every Action will cause a Reaction!
-
-Aim is to process Actions when they occure and trigger Reactions when the occure!
 
 ## Contribution
 
