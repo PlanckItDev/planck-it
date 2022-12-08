@@ -4,7 +4,7 @@ Full Application Life Cycle
 Planck-It aims to increase performance for Application Development
 
 - Less manual actions
-- Less Ressources
+- Less required Ressources
 
 ## How ?
 
@@ -36,4 +36,12 @@ This will be always needs to be constructed!
 Every Action will cause a Reaction!
 
 Aim is to process Actions when they occure and trigger Reactions when the occure!
+
+## Contribution
+
+If you could reduce Manual Actions or Required Ressources:
+- Create a Merge-/Pull-Request with your proposal
+- Thats it
+
+
 
