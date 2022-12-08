@@ -10,6 +10,9 @@ Full Application Life Cycle
 
 This will be always work in progress!
 
+- React for every Action in Real-Time
+- Reduce async - blocking Reactions
+
 ## Benchmark
 
 This will be always needs to be measured!
