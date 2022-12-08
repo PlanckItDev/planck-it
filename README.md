@@ -16,6 +16,10 @@ This will be always needs to be measured!
 
 ## Current Proposal
 
+Requirement:
+
+`install planck-it cli/deamon`
+
 Some simple steps:
 
 1. Plan your Application (Manual Actions ?)
