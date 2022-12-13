@@ -10,8 +10,8 @@ Full Application Life Cycle
 
 This will be always work in progress!
 
-- React for every Action in Real-Time
-- Reduce async - blocking Reactions
+- Reaction for every Action in Real-Time
+- Reduce blocking Reactions
 
 ## Benchmark
 
